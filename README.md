@@ -1,6 +1,6 @@
 # Healthcare Patient Outcomes Analysis
 
-🔗 **[View Live Tableau Dashboards](https://public.tableau.com/views/PATIENT_OUTCOMES/PatientOverview?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
+🔗 [View Dashboard (Tableau Public)](https://public.tableau.com/app/profile/indrani.challa/viz/PATIENT_OUTCOMES_17806417932790/PatientOverview)
 
 🔗 **[View Hex Notebook](https://app.hex.tech/0199335d-610a-7001-9c7d-fb84db58160d/app/Healthcare-Patient-Outcomes-032iOhIf1TWtjeMfj0h4hk/latest)**
 
